@@ -2,7 +2,7 @@ name: CI-CD
 on:
   push:
     branches:
-      - aula04
+      - aula-04
 
 jobs:
   build:
