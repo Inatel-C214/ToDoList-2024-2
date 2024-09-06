@@ -4,7 +4,7 @@ on:
     push:
         branches:
             - main
-            - aula05
+            - aula-05
 
 jobs:
     test:
